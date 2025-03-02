@@ -9,4 +9,4 @@ Our model predicted the accuracy score of 0.88. which is good start for our mode
 
 
 
-#these is learing project, i am a student learning machine learning, these source is not completely mone belongs to some machine learning project providers
+#these is learing project and is not accurate i am a student learning machine learning
